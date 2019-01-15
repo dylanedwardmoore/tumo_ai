@@ -1,2 +1,2 @@
 # tumo_ai
-Course content for The TUMO Introduction To Artificial Intelligence Workshop
+Course content for the TUMO Introduction To Artificial Intelligence Workshop
